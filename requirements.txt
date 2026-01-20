@@ -1,0 +1,13 @@
+
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+scipy>=1.10.0
+scikit-learn
+opencv-python-headless  
+Pillow
+facenet-pytorch         
+grad-cam                
+matplotlib
+streamlit
+tqdm                    
